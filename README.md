@@ -1,5 +1,7 @@
 # shell-tools-by-bash
 基于bash下的shell工具包
+### setJava.sh
+在Linux平台中，设置Java环境变量，需要输入jdk的主目录
 ## debian6
 debian6的shell工具（理论上仅可在debian6下方可使用）
 ### testMirrors.sh
